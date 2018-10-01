@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="2.0"?>
+		<QBXML>
+			<QBXMLMsgsRq onError="continueOnError">
+				<CustomerAddRq requestID="4">
+					<CustomerAdd>
+						<Name>Alberta, Alabama (12)</Name>
+						<ParentRef>
+							<ListID>80000009-1538376688</ListID>
+						</ParentRef>
+						<BillAddress>
+							<Addr1>Steam12</Addr1>
+							<Addr2>952  Strother Street</Addr2>
+							<City>Alberta</City>
+							<State>Alabama</State>
+							<PostalCode>36310</PostalCode>
+							<Country>United States</Country>
+						</BillAddress>
+						<Phone>207-512-85632</Phone>
+						<Fax>8563214789</Fax>
+					</CustomerAdd>
+				</CustomerAddRq>
+			</QBXMLMsgsRq>
+		</QBXML>
+<?xml version="1.0" encoding="utf-8"?>
+		<?qbxml version="2.0"?>
+		<QBXML>
+			<QBXMLMsgsRq onError="continueOnError">
+				<CustomerAddRq requestID="4">
+					<CustomerAdd>
+						<Name>Alberta, Alabama (12)</Name>
+						<ParentRef>
+							<ListID>80000009-1538376688</ListID>
+						</ParentRef>
+						<BillAddress>
+							<Addr1>Steam12</Addr1>
+							<Addr2>952  Strother Street</Addr2>
+							<City>Alberta</City>
+							<State>Alabama</State>
+							<PostalCode>36310</PostalCode>
+							<Country>United States</Country>
+						</BillAddress>
+						<Phone>207-512-85632</Phone>
+						<Fax>8563214789</Fax>
+					</CustomerAdd>
+				</CustomerAddRq>
+			</QBXMLMsgsRq>
+		</QBXML>
